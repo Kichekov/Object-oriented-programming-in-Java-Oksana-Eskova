@@ -12,6 +12,7 @@ public class Stack<E> {
     public void push(E elem) throws StackException{//занести символ в вершину стека;
         if (tail == array.length - 1) throw new StackException("Стек заполнен!");
         array[++tail] = elem;
+
     }
 
     public void print(){// распечатать содержимое стека.
