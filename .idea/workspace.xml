@@ -4,24 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bb9eefd-1baf-4241-837a-e697d15a4b77" name="Changes" comment="Classes Task_42">
-      <change afterPath="$PROJECT_DIR$/src/Task_44/Informator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_44/Institution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_44/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/CapsFirstLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/Editing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/NoDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/NoEditing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/NoExtraSpaces.java" afterDir="false" />
+    <list default="true" id="9bb9eefd-1baf-4241-837a-e697d15a4b77" name="Changes" comment="Classes Task_45">
+      <change afterPath="$PROJECT_DIR$/src/Task_46/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_46/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_46/HtmlButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_46/HtmlDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_46/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_46/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_46/WindowsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/ShipFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/TrainFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/TransportFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/TruckFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_43/Hare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/Hare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_43/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_43/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/Wolf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_43/bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_43/subjectNewspaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/subjectNewspaper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,30 +71,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Application.BusinessTrip.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainStart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Start.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_35.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Classes&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/vlad/IdeaProjects/Object-oriented programming in Java Oksana Eskova/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;consents&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.BusinessTrip.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main34.executor": "Run",
+    "Application.MainA.executor": "Run",
+    "Application.MainB.executor": "Run",
+    "Application.MainC.executor": "Run",
+    "Application.MainCar.executor": "Run",
+    "Application.MainD.executor": "Run",
+    "Application.MainStart.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.Sart.executor": "Run",
+    "Application.Start.executor": "Run",
+    "Application.StartMain.executor": "Run",
+    "Application.Task_35.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Classes",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/vlad/IdeaProjects/Object-oriented programming in Java Oksana Eskova/src/Main.java",
+    "settings.editor.selected.configurable": "consents"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -472,7 +473,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737753601423</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Classes Task_45">
+      <option name="closed" value="true" />
+      <created>1737988658064</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1737988658064</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Classes Task_45">
+      <option name="closed" value="true" />
+      <created>1737988854768</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1737988854768</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Classes Task_45">
+      <option name="closed" value="true" />
+      <created>1737988863422</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1737988863422</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Task_13" />
     <MESSAGE value="Classes Task_14" />
     <MESSAGE value="Classes Task_15" />
     <MESSAGE value="Classes Task_16" />
@@ -524,7 +548,8 @@
     <MESSAGE value="Classes Task_39" />
     <MESSAGE value="Classes Task_41" />
     <MESSAGE value="Classes Task_42" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Task_42" />
+    <MESSAGE value="Classes Task_45" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Task_45" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
