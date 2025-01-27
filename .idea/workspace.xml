@@ -5,34 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bb9eefd-1baf-4241-837a-e697d15a4b77" name="Changes" comment="Classes Task_42">
-      <change afterPath="$PROJECT_DIR$/src/Demo2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library2/Bridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library2/SuspensionBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library2/WaterBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_21/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_24/HeavyLuggageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_24/Luggage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_24/MainB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_35/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_35/Task_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_37/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_37/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_40/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_40/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/Hare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/subjectNewspaper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_44/Informator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_44/Institution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_44/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_45/CapsFirstLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_45/Editing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_45/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_45/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_45/NoDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_45/NoEditing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_45/NoExtraSpaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_28/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_28/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_33/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_33/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_43/Hare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/Hare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_43/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_43/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_43/bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_43/subjectNewspaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43/subjectNewspaper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,30 +71,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Application.BusinessTrip.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main34.executor": "Run",
-    "Application.MainA.executor": "Run",
-    "Application.MainB.executor": "Run",
-    "Application.MainC.executor": "Run",
-    "Application.MainCar.executor": "Run",
-    "Application.MainD.executor": "Run",
-    "Application.MainStart.executor": "Run",
-    "Application.Sart.executor": "Run",
-    "Application.Start.executor": "Run",
-    "Application.StartMain.executor": "Run",
-    "Application.Task_35.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Classes",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/home/vlad/IdeaProjects/Object-oriented programming in Java Oksana Eskova/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.BusinessTrip.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainStart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Start.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StartMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_35.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Classes&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/vlad/IdeaProjects/Object-oriented programming in Java Oksana Eskova/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;consents&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -475,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737573843285</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Classes Task_42">
+      <option name="closed" value="true" />
+      <created>1737753601423</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1737753601423</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -581,6 +578,11 @@
           <url>file://$PROJECT_DIR$/src/Task_40/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task_44/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />

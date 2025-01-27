@@ -7,18 +7,16 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         subjectNewspaper subjectNewspaper = new subjectNewspaper();
-        bear bear = new bear("Потап");
-        bear bearN = new bear("Настасья");
-        Hare hare = new Hare("Трусишка");
-        Wolf wolf = new Wolf("Алекс");
-        subjectNewspaper.registerListener(bear);
-        subjectNewspaper.registerListener(bearN);
-        subjectNewspaper.registerListener(hare);
-        subjectNewspaper.registerListener(wolf);
+        bear bear = new bear("Потап", subjectNewspaper);
+        bear bearN = new bear("Настасья", subjectNewspaper);
+        Hare hare = new Hare("Трусишка", subjectNewspaper);
+        Wolf wolf = new Wolf("Алекс", subjectNewspaper);
+
         subjectNewspaper.measurementsChanged();
         System.out.println();
 
         String remove = scanner.next();
+
 
         switch (remove){
             case "Потап": {

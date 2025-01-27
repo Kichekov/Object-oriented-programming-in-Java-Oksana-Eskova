@@ -4,6 +4,8 @@ import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 
+import static java.lang.Character.getName;
+
 public class subjectNewspaper {
     private PropertyChangeSupport support;
     private int data;
@@ -19,12 +21,18 @@ public class subjectNewspaper {
     }
 
     public void registerListener(PropertyChangeListener listener) {//добавление
+
         support.addPropertyChangeListener(listener);
+
     }
 
     public void removeListener(PropertyChangeListener listener) {//удаление
         support.removePropertyChangeListener(listener);
-    }
+   }
+
+//    public void removeListener(PropertyChangeListener listener) {//удаление
+//        support.removePropertyChangeListener(listener);
+//    }
 
     public void measurementsChanged(){//оповещение
         number++;

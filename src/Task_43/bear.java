@@ -8,8 +8,9 @@ public class bear implements PropertyChangeListener, print {
     private Data data;
     private String name;
 
-    public bear(String name) {
+    public bear(String name, subjectNewspaper subjectNewspaper) {
         this.name = name;
+        subjectNewspaper.registerListener(this);
     }
 
     public String getName() {
