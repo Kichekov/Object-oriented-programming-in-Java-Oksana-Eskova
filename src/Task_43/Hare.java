@@ -7,8 +7,9 @@ public class Hare implements PropertyChangeListener, print {
     private Data data;
     private String name;
 
-    public Hare(String name) {
+    public Hare(String name, subjectNewspaper subjectNewspaper) {
         this.name = name;
+        subjectNewspaper.registerListener(this);
     }
 
     public String getName() {

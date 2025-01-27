@@ -7,8 +7,9 @@ public class Wolf implements PropertyChangeListener, print {
     private Data data;
     private String name;
 
-    public Wolf(String name) {
+    public Wolf(String name, subjectNewspaper subjectNewspaper) {
         this.name = name;
+        subjectNewspaper.registerListener(this);
     }
 
     public String getName() {
